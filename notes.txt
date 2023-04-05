@@ -1,0 +1,22 @@
+#image: done
+
+
+#color: 
+
+background-color: #27C9CB
+100%
+
+button-font-color: #464C4E
+font-color: #464C4E
+font-color2:#7A7A7E
+font-color3:#D2D2D2
+
+#font:
+1.lekton; 
+ @import url('https://fonts.googleapis.com/css2?family=Lekton&display=swap');
+
+2.Inter;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Lekton&display=swap');
+
+3.Lato;
+4

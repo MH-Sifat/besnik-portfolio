@@ -1223,6 +1223,8 @@ left: 1030px;
 top: 280px;
 background: #F9F9F9;
 text-align: center;
+color: #31D3D6;
+
 }
 .F4 > :nth-child(4){
     position: absolute;
@@ -1232,6 +1234,8 @@ left: 1070px;
 top: 280px;
 background: #F9F9F9;
 text-align: center;
+color: #31D3D6;
+
 }
 .F4 > :nth-child(5){
     position: absolute;
@@ -1241,6 +1245,8 @@ left: 1110px;
 top: 280px;
 background: #F9F9F9;
 text-align: center;
+color: #31D3D6;
+
 }
 .mainfooter{
     position: absolute;
